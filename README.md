@@ -1,5 +1,6 @@
 # Lost-in-Alignment
-Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualised Representation
+### Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualised Representation ###
+Cross-lingual word representations allow us to analyse word meanings across diverse language settings. It is crucial in aiding cross-lingual knowledge transfer when constructing natural language processing (NLP) models for languages with limited resources. This survey presents a comprehensive classification of cross-lingual contextual embedding models. We assess their data requirements and objective functions, and we introduce a taxonomy for categorising these approaches. Then, we present a comprehensive table containing a set of hierarchical criteria to compare them better, along with information regarding the availability of code and data to enable replication of the research. Furthermore, we delve into the evaluation methodologies employed for cross-lingual embeddings, exploring their practical applications and addressing their current associated challenges.
 
 ## WIP ##
 
@@ -23,4 +24,15 @@ Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualise
 - Wieting et al. 2019: https://github.com/jwieting/simple-and-effective-paraphrastic-similarity
 - Wang et al. 2019 - CLBT: https://github.com/WangYuxuan93/CLBT
 - Artetxe et al. 2019 - LASER: https://github.com/facebookresearch/LASER
-- Cao et al. 2020: 
+- Cao et al. 2020:
+
+
+## Cite this Article ##
+@article{pallucchini2025lost,
+  title={Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualised Representation},
+  author={Pallucchini, Filippo and Malandri, Lorenzo and Mezzanzanica, Mario and Mercorio, Fabio},
+  journal={ACM computing surveys},
+  pages={1--37},
+  year={2025},
+  publisher={ACM New York, NY}
+}

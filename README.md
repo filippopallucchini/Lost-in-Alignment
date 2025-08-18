@@ -3,7 +3,7 @@ Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualise
 
 ## WIP ##
 
-** CROSS-LINGUAL ALIGNMENT TAXONOMY **
+## CROSS-LINGUAL ALIGNMENT TAXONOMY ##
 
 <img width="519" height="321" alt="Screenshot 2025-08-19 alle 00 22 50" src="https://github.com/user-attachments/assets/1a5eedf1-4ec9-4a5a-ac00-cfbea4e31a95" />
 
@@ -16,6 +16,6 @@ Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualise
 - Parallel Corpora: It refers to both the monolingual corpus and its respective corpus translated into another language. These are used as input for the multilingual embedding model.
 - Train+Align Multilingual Embeddings: It is related to the process of training a multilingual language model that utilises objective functions during the training phase to represent cross-linguality.
 
-** CLASSIFICATION OF THE MODELS **
+## CLASSIFICATION OF THE MODELS ##
 
 <img width="669" height="522" alt="Screenshot 2025-08-19 alle 00 23 32" src="https://github.com/user-attachments/assets/06b69a9b-3371-4f1c-b4fb-0dd06426e137" />

@@ -24,7 +24,39 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 - Wieting et al. 2019: https://github.com/jwieting/simple-and-effective-paraphrastic-similarity
 - Wang et al. 2019 - CLBT: https://github.com/WangYuxuan93/CLBT
 - Artetxe et al. 2019 - LASER: https://github.com/facebookresearch/LASER
-- Cao et al. 2020:
+- Cao et al. 2020: paper:
+- Wang et al. 2020: paper: https://arxiv.org/abs/1910.04708 code: https://github.com/thespectrewithin/joint_align 
+- Wu et al. 2020:
+- Chi et al. 2020 - XNLG: 
+- Reimers et al. 2020:
+- Pan et al. 2021: paper:
+- Hu et al. 2021 - AMBER: paper:
+- Alqahtani et al. 2021: paper:
+- Chi et al. 2021 - infoXLM
+- Zhao et al. 2021:
+- Goswami et al. 2021 - DuEAM: paper:
+- Gritta et al. 2021 - XeroAlign:
+- Ulˇcar et al. 2022 - Vecmap/MUSE:
+- Ulˇcar et al. 2022 - ELMOGAN:
+- Liu et al. 2022 - Bi-SaELMO:
+- Tien et al. 2022:
+- Feng et al. 2022 - LaBSE: paper:
+- Ding et al. 2022:
+- Heffernan et al. 2022 - LASER3:
+- Hämmerl et al. 2022:
+- Efimov et al. 2023:
+- Abulkhanov et al. 2023 - LAPCA: paper:
+- Tan et al. 2023 - LASER3-CO: paper:
+- Li et al. 2023: paper:
+- Li et al. 2024 - AFP:
+- Vasilyev et al. 2024: paper:
+- Jiang et al. 2024 - CLASS:
+- Bakos et al. 2025 - AlignFreeze:
+- Feng et al. 2025 - IDA:
+- Liu et al. 2025:
+- Sundar et al. 2025:
+- Jha et al. 2025 - vec2vec
+- Deng et al. 2025:
 
 
 ## Cite this Article ##

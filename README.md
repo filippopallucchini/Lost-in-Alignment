@@ -4,8 +4,7 @@ Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualise
 ## WIP ##
 
 ## CROSS-LINGUAL ALIGNMENT TAXONOMY ##
-
-<img width="519" height="321" alt="Screenshot 2025-08-19 alle 00 22 50" src="https://github.com/user-attachments/assets/1a5eedf1-4ec9-4a5a-ac00-cfbea4e31a95" />
+<img width="922" height="581" alt="Screenshot 2025-08-19 alle 00 29 44" src="https://github.com/user-attachments/assets/0fcd0cd3-de22-4ac0-98f5-a84e8c16b751" />
 
 - N Monolingual Corpora: It refers to the N monolingual corpora used as input for the embedding model.
 - Train N Embeddings: It refers to training N contextualised language models that need to be aligned. NB: numerous authors do not train models but use already existing pre-trained models.
@@ -17,5 +16,4 @@ Lost in Alignment: A Survey on Cross-lingual Alignment Methods for Contextualise
 - Train+Align Multilingual Embeddings: It is related to the process of training a multilingual language model that utilises objective functions during the training phase to represent cross-linguality.
 
 ## CLASSIFICATION OF THE MODELS ##
-
-<img width="669" height="522" alt="Screenshot 2025-08-19 alle 00 23 32" src="https://github.com/user-attachments/assets/06b69a9b-3371-4f1c-b4fb-0dd06426e137" />
+<img width="939" height="724" alt="Screenshot 2025-08-19 alle 00 30 25" src="https://github.com/user-attachments/assets/6d51f045-237d-4122-875e-e56ab6abfb96" />

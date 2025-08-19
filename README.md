@@ -19,7 +19,8 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 ## CLASSIFICATION OF THE MODELS ##
 <img width="939" height="724" alt="Screenshot 2025-08-19 alle 00 30 25" src="https://github.com/user-attachments/assets/6d51f045-237d-4122-875e-e56ab6abfb96" />
 
-- Aldarmaki et al. 2019: [code](https://github.com/h-aldarmaki/sent_translation_retrieval)
+- Aldarmaki et al. 2019:
+[paper](https://aclanthology.org/N19-1391/) [code](https://github.com/h-aldarmaki/sent_translation_retrieval)
 - Schuster et al. 2019: https://github.com/TalSchuster/CrossLingualContextualEmb
 - Wieting et al. 2019: https://github.com/jwieting/simple-and-effective-paraphrastic-similarity
 - Wang et al. 2019 - CLBT: https://github.com/WangYuxuan93/CLBT

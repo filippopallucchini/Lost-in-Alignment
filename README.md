@@ -35,28 +35,28 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 - Chi et al. 2021 - infoXLM --> [paper](https://aclanthology.org/2021.naacl-main.280/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter) [code](https://github.com/microsoft/unilm/tree/master/infoxlm)
 - Zhao et al. 2021 --> [paper](https://aclanthology.org/2021.starsem-1.22/) [code](https://github.com/AIPHES/Language-Agnostic-Contextualized-Encoders)
 - Goswami et al. 2021 - DuEAM: [paper](https://aclanthology.org/2021.emnlp-main.716/) []()
-- Gritta et al. 2021 - XeroAlign --> [paper](https://aclanthology.org/2021.findings-acl.32/) [code]()
-- Ulˇcar et al. 2022 - Vecmap/MUSE:
-- Ulˇcar et al. 2022 - ELMOGAN:
-- Liu et al. 2022 - Bi-SaELMO:
-- Tien et al. 2022:
-- Feng et al. 2022 - LaBSE: paper:
-- Ding et al. 2022:
-- Heffernan et al. 2022 - LASER3:
-- Hämmerl et al. 2022:
-- Efimov et al. 2023:
-- Abulkhanov et al. 2023 - LAPCA: paper:
-- Tan et al. 2023 - LASER3-CO: paper:
-- Li et al. 2023: paper:
-- Li et al. 2024 - AFP:
-- Vasilyev et al. 2024: paper:
-- Jiang et al. 2024 - CLASS:
-- Bakos et al. 2025 - AlignFreeze:
-- Feng et al. 2025 - IDA:
-- Liu et al. 2025:
-- Sundar et al. 2025:
-- Jha et al. 2025 - vec2vec
-- Deng et al. 2025:
+- Gritta et al. 2021 - XeroAlign --> [paper](https://aclanthology.org/2021.findings-acl.32/)
+- Ulˇcar et al. 2022 - Vecmap/MUSE --> [paper](https://link.springer.com/article/10.1007/s00521-022-07164-x) 
+- Ulˇcar et al. 2022 - ELMOGAN --> [paper](https://link.springer.com/article/10.1007/s00521-022-07164-x) [code](https://github.com/TalSchuster/CrossLingualContextualEmb)
+- Liu et al. 2022 - Bi-SaELMO --> [paper](https://aclanthology.org/2022.coling-1.386/) [code](https://github.com/ntunlp/multisense_embedding_alignment)
+- Tien et al. 2022 --> [paper](https://aclanthology.org/2022.acl-long.595/) [code](https://github.com/cctien/bimultialign)
+- Feng et al. 2022 - LaBSE --> [paper](https://aclanthology.org/2022.acl-long.62/)
+- Ding et al. 2022 - EAR --> [paper](https://aclanthology.org/2022.coling-1.385/) [code](https://github.com/KB-Ding/EAR)
+- Heffernan et al. 2022 - LASER3 --> [paper](https://aclanthology.org/2022.findings-emnlp.154/) [code](https://github.com/facebookresearch/fairseq/tree/nllb/examples/nllb/laser_distillation)
+- Hämmerl et al. 2022 --> [paper](https://aclanthology.org/2022.findings-acl.182/) [code](https://github.com/KathyHaem/combining-static-contextual)
+- Efimov et al. 2023 --> [paper](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_4) [code](https://github.com/pefimov/cross-lingual-adjustment)
+- Abulkhanov et al. 2023 - LAPCA --> [paper](https://dl.acm.org/doi/abs/10.1145/3539618.3592006?casa_token=YIC1V5Gr9mcAAAAA:lJ7ojquwwOUxUrPZtjmGdt6yaVI-ZEVw6GWJ1FlK_20wi9k1ldO00bAWus7xWM548KdPPNAA8j3J) 
+- Tan et al. 2023 - LASER3-CO --> [paper](https://aclanthology.org/2023.eacl-main.108/)
+- Li et al. 2023 --> [paper](https://virtual2023.aclweb.org/paper_P2288.html)
+- Li et al. 2024 - AFP --> [paper](https://aclanthology.org/2024.naacl-long.445/) [code](https://github.com/chongli17/CrossLingualAlignment)
+- Vasilyev et al. 2024 --> [paper](https://aclanthology.org/2024.findings-acl.486/)
+- Jiang et al. 2024 - CLASS --> [paper](https://aclanthology.org/2024.emnlp-main.770/) [code](https://github.com/Fantabulous-J/CLASS)
+- Bakos et al. 2025 - AlignFreeze --> [paper](https://aclanthology.org/2025.naacl-short.48/) [code](https://github.com/posos-tech/multilingual-alignment-and-transfer/tree/main/scripts/2025_naacl)
+- Feng et al. 2025 - IDA --> [paper](https://aclanthology.org/2025.coling-main.138/)
+- Liu et al. 2025 --> [paper](https://aclanthology.org/2025.acl-long.778/) [code](https://github.com/dannigt/mid-align)
+- Sundar et al. 2025 --> [paper](https://aclanthology.org/2025.acl-long.118/) 
+- Jha et al. 2025 - vec2vec --> [paper](https://arxiv.org/abs/2505.12540) [code](https://github.com/rjha18/vec2vec/)
+- Deng et al. 2025 --> [paper](https://arxiv.org/abs/2502.11401) [code](https://github.com/TrustedLLM/AutoRegEmbed)
 
 
 ## Cite this Article ##

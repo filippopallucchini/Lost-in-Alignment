@@ -26,16 +26,16 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 - Artetxe et al. 2019 - LASER --> [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00288/43523/Massively-Multilingual-Sentence-Embeddings-for) [code](https://github.com/facebookresearch/LASER)
 - Cao et al. 2020 --> [paper](https://iclr.cc/virtual_2020/poster_r1xCMyBtPS.html)
 - Wang et al. 2020 --> [paper](https://iclr.cc/virtual_2020/poster_S1l-C0NtwS.html) [code](https://github.com/thespectrewithin/joint_align)
-- Wu et al. 2020: 
-- Chi et al. 2020 - XNLG: 
-- Reimers et al. 2020:
-- Pan et al. 2021: paper:
-- Hu et al. 2021 - AMBER: paper:
-- Alqahtani et al. 2021: paper:
-- Chi et al. 2021 - infoXLM
-- Zhao et al. 2021:
-- Goswami et al. 2021 - DuEAM: paper:
-- Gritta et al. 2021 - XeroAlign:
+- Wu et al. 2020 [paper](https://aclanthology.org/2020.emnlp-main.362/) [code](https://github.com/shijie-wu/crosslingual-nlp/tree/master/example/contrastive-alignment)
+- Chi et al. 2020 - XNLG: [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [code](https://github.com/CZWin32768/XNLG)
+- Reimers et al. 2020: [paper](https://aclanthology.org/2020.emnlp-main.365/) [code](https://github.com/UKPLab/sentence-transformers/blob/master/examples/sentence_transformer/training/multilingual/README.md)
+- Pan et al. 2021: paper: [paper](https://aclanthology.org/2021.naacl-main.20/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter)
+- Hu et al. 2021 - AMBER: [paper](https://aclanthology.org/2021.naacl-main.284/) [code](https://github.com/JunjieHu/amber)
+- Alqahtani et al. 2021: paper: [paper](https://aclanthology.org/2021.findings-emnlp.329/) 
+- Chi et al. 2021 - infoXLM --> [paper](https://aclanthology.org/2021.naacl-main.280/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter) [code](https://github.com/microsoft/unilm/tree/master/infoxlm)
+- Zhao et al. 2021 --> [paper](https://aclanthology.org/2021.starsem-1.22/) [code](https://github.com/AIPHES/Language-Agnostic-Contextualized-Encoders)
+- Goswami et al. 2021 - DuEAM: [paper](https://aclanthology.org/2021.emnlp-main.716/) []()
+- Gritta et al. 2021 - XeroAlign --> [paper](https://aclanthology.org/2021.findings-acl.32/) [code]()
 - Ulˇcar et al. 2022 - Vecmap/MUSE:
 - Ulˇcar et al. 2022 - ELMOGAN:
 - Liu et al. 2022 - Bi-SaELMO:

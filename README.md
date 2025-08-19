@@ -19,7 +19,7 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 ## CLASSIFICATION OF THE MODELS ##
 <img width="939" height="724" alt="Screenshot 2025-08-19 alle 00 30 25" src="https://github.com/user-attachments/assets/6d51f045-237d-4122-875e-e56ab6abfb96" />
 
-- Aldarmaki et al. 2019 --> [paper](https://aclanthology.org/N19-1391/) [code](https://github.com/h-aldarmaki/sent_translation_retrieval)
+- Aldarmaki et al. 2019 --> [[paper](https://aclanthology.org/N19-1391/)] [code](https://github.com/h-aldarmaki/sent_translation_retrieval)
 - Schuster et al. 2019 --> [paper](https://aclanthology.org/N19-1162/) [code](https://github.com/TalSchuster/CrossLingualContextualEmb)
 - Wieting et al. 2019 --> [paper](https://aclanthology.org/P19-1453/) [code](https://github.com/jwieting/simple-and-effective-paraphrastic-similarity)
 - Wang et al. 2019 - CLBT --> [paper](https://aclanthology.org/D19-1575/) [code](https://github.com/WangYuxuan93/CLBT)
@@ -27,14 +27,14 @@ Cross-lingual word representations allow us to analyse word meanings across dive
 - Cao et al. 2020 --> [paper](https://iclr.cc/virtual_2020/poster_r1xCMyBtPS.html)
 - Wang et al. 2020 --> [paper](https://iclr.cc/virtual_2020/poster_S1l-C0NtwS.html) [code](https://github.com/thespectrewithin/joint_align)
 - Wu et al. 2020 [paper](https://aclanthology.org/2020.emnlp-main.362/) [code](https://github.com/shijie-wu/crosslingual-nlp/tree/master/example/contrastive-alignment)
-- Chi et al. 2020 - XNLG: [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [code](https://github.com/CZWin32768/XNLG)
+- Chi et al. 2020 - XNLG --> [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [code](https://github.com/CZWin32768/XNLG)
 - Reimers et al. 2020: [paper](https://aclanthology.org/2020.emnlp-main.365/) [code](https://github.com/UKPLab/sentence-transformers/blob/master/examples/sentence_transformer/training/multilingual/README.md)
-- Pan et al. 2021: paper: [paper](https://aclanthology.org/2021.naacl-main.20/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter)
-- Hu et al. 2021 - AMBER: [paper](https://aclanthology.org/2021.naacl-main.284/) [code](https://github.com/JunjieHu/amber)
-- Alqahtani et al. 2021: paper: [paper](https://aclanthology.org/2021.findings-emnlp.329/) 
+- Pan et al. 2021: paper --> [paper](https://aclanthology.org/2021.naacl-main.20/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter)
+- Hu et al. 2021 - AMBER --> [paper](https://aclanthology.org/2021.naacl-main.284/) [code](https://github.com/JunjieHu/amber)
+- Alqahtani et al. 2021 --> [paper](https://aclanthology.org/2021.findings-emnlp.329/) 
 - Chi et al. 2021 - infoXLM --> [paper](https://aclanthology.org/2021.naacl-main.280/?utm_campaign=%E6%AF%8E%E9%80%B1%20NLP%20%E8%AB%96%E6%96%87&utm_medium=email&utm_source=Revue%20newsletter) [code](https://github.com/microsoft/unilm/tree/master/infoxlm)
 - Zhao et al. 2021 --> [paper](https://aclanthology.org/2021.starsem-1.22/) [code](https://github.com/AIPHES/Language-Agnostic-Contextualized-Encoders)
-- Goswami et al. 2021 - DuEAM: [paper](https://aclanthology.org/2021.emnlp-main.716/) []()
+- Goswami et al. 2021 - DuEAM --> [paper](https://aclanthology.org/2021.emnlp-main.716/) []()
 - Gritta et al. 2021 - XeroAlign --> [paper](https://aclanthology.org/2021.findings-acl.32/)
 - Ulˇcar et al. 2022 - Vecmap/MUSE --> [paper](https://link.springer.com/article/10.1007/s00521-022-07164-x) 
 - Ulˇcar et al. 2022 - ELMOGAN --> [paper](https://link.springer.com/article/10.1007/s00521-022-07164-x) [code](https://github.com/TalSchuster/CrossLingualContextualEmb)
